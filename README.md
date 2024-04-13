@@ -8,7 +8,7 @@ We extended the project further by building a Django web application, which made
 
 - [@punamcancodee](https://github.com/punamcancodee)
 - [@TheUndisput3d](https://github.com/TheUndisput3d?tab=repositories)
-- [@neekamhrzn](https://github.com/neekamhrzn)
+
 
 
 
