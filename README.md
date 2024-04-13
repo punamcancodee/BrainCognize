@@ -21,11 +21,12 @@ We extended the project further by building a Django web application, which made
 - CNN
 - VGG-16
 
+## DEMO
 
+Link to the video  https://drive.google.com/file/d/1IZc-MrdaXFFnt8-RRAxmudo7me9dhv2G/view?usp=drive_link
 
 ## Screenshots
 
-Detected face in Images
 
 
 ![App Screenshot](https://github.com/punamcancodee/BrainCognize/blob/master/Image/Screenshot_2024-03-07-13-04-25-354_com.example.disease_detector.jpg?raw=true)
